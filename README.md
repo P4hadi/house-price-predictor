@@ -20,7 +20,7 @@ A Machine Learning project that predicts house prices using historical housing d
 - Model saving using Joblib
 
 ## Project Structure
-
+```
 house-price-predictor/
 │
 ├── data/
@@ -29,7 +29,7 @@ house-price-predictor/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Installation
 
 Create virtual environment:
